@@ -186,14 +186,6 @@
                 <span class="d-block mb-1">Morgan Holsters</span>
                 <small class="h6 text-muted">Project Manager</small>
               </h5>
-              <div class="mt-3">
-                <base-button tag="a" href="" type="warning" icon="fa fa-twitter" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="warning" icon="fa fa-facebook" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="warning" icon="fa fa-dribbble" rounded
-                             icon-only></base-button>
-              </div>
             </div>
           </div>
         </div>
@@ -205,16 +197,8 @@
             <div class="pt-4 text-center">
               <h5 class="title">
                 <span class="d-block mb-1">Matthias De Baets</span>
-                <small class="h6 text-muted">Developer</small>
+                <small class="h6 text-muted">President of The United States of Future Belgium</small>
               </h5>
-              <div class="mt-3">
-                <base-button tag="a" href="#" type="primary" icon="fa fa-twitter" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="primary" icon="fa fa-facebook" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="" type="primary" icon="fa fa-dribbble" rounded
-                             icon-only></base-button>
-              </div>
             </div>
           </div>
         </div>
@@ -225,38 +209,48 @@
                  style="width: 200px;">
             <div class="pt-4 text-center">
               <h5 class="title">
-                <span class="d-block mb-1">Mathieu Pechovitch</span>
+                <span class="d-block mb-1">Mathieu Pecho</span>
                 <small class="h6 text-muted">Developer</small>
               </h5>
-              <div class="mt-3">
-                <base-button tag="a" href="#" type="info" icon="fa fa-twitter" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="info" icon="fa fa-facebook" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="info" icon="fa fa-dribbble" rounded
-                             icon-only></base-button>
-              </div>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
           <div class="px-4">
-            <img v-lazy="'img/theme/team-4-800x800.jpg'"
+            <img v-lazy="'img/theme/driver.png'"
                  class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
                  style="width: 200px;">
             <div class="pt-4 text-center">
               <h5 class="title">
-                <span class="d-block mb-1">John Doe</span>
-                <small class="h6 text-muted">Founder and CEO</small>
+                <span class="d-block mb-1">Maxime Sateur</span>
+                <small class="h6 text-muted">The Getaway Driver</small>
               </h5>
-              <div class="mt-3">
-                <base-button tag="a" href="#" type="success" icon="fa fa-twitter" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="success" icon="fa fa-facebook" rounded
-                             icon-only></base-button>
-                <base-button tag="a" href="#" type="success" icon="fa fa-dribbble" rounded
-                             icon-only></base-button>
-              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+          <div class="px-4">
+            <img v-lazy="'img/theme/profile_picture1.png'"
+                 class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
+                 style="width: 200px;">
+            <div class="pt-4 text-center">
+              <h5 class="title">
+                <span class="d-block mb-1">Robbe Vanluyten</span>
+                <small class="h6 text-muted">Developer</small>
+              </h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
+          <div class="px-4">
+            <img v-lazy="'img/theme/img_profile.png'"
+                 class="rounded-circle img-center img-fluid shadow shadow-lg--hover"
+                 style="width: 200px;">
+            <div class="pt-4 text-center">
+              <h5 class="title">
+                <span class="d-block mb-1">Blenda Kaja</span>
+                <small class="h6 text-muted">Developer</small>
+              </h5>
             </div>
           </div>
         </div>
