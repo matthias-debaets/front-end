@@ -17,7 +17,7 @@
       <div class="col px-0">
         <div class="row">
           <div class="col-lg-6 team19">
-            <h1 class="display-3  text-white">A beautiful way to explore Belgium and it's many qualities.
+            <h1 class="display-3  text-white">A beautiful way to explore Belgium and it's many qualities the cheapest way possible.
               <span>Inclusive and accessible.</span>
             </h1>
             <p class="lead  text-white">Dr. Discount is partnered with 1000+ local Belgian businesses to ensure the best possible experience.</p>
