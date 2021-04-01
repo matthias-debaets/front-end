@@ -13,10 +13,10 @@
       <span class="span-50"></span>
       <span class="span-100"></span>
     </div>
-    <div class="container shape-container d-flex">
+    <div class="container shape-container d-flex ">
       <div class="col px-0">
         <div class="row">
-          <div class="col-lg-6">
+          <div class="col-lg-6 team19">
             <h1 class="display-3  text-white">A beautiful way to explore Belgium and it's many qualities.
               <span>Inclusive and accessible.</span>
             </h1>
@@ -324,4 +324,7 @@
 export default {};
 </script>
 <style>
+.team19{
+  margin-top: 25%;
+}
 </style>

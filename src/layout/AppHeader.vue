@@ -20,13 +20,13 @@
                 <li class="nav-item">
                     <a slot="title" href="#" class="nav-item">
                         <i class="ni ni-ui-04 d-lg-none"></i>
-                        <span class="nav-link-inner--text text-danger"><router-link to="/landing" class="text-danger">Partners</router-link></span>
+                        <span class="nav-link-inner--text text-white"><router-link to="/landing" class="display-4 text-white font-weight-bold">Partners</router-link></span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a slot="title" href="#" class="nav-item">
                         <i class="ni ni-ui-04 d-lg-none"></i>
-                        <span class="nav-link-inner--text"><router-link to="/landing" class="text-danger">Contact</router-link></span>
+                        <span class="nav-link-inner--text"><router-link to="/login" class="display-4 text-white font-weight-bold padding">Contact</router-link></span>
                     </a>
                 </li>
             </ul>
@@ -65,7 +65,7 @@
                 <span class="btn-inner--icon">
                   <i class="fa fa-shopping-cart mr-2"></i>
                 </span>
-                        <span class="nav-link-inner--text">BUY NOW!</span>
+                        <span class="nav-link-inner--text"><a href="http://hybrid-cloud-team-19-frontend-update-on-push-ucllteam19.ocp-ucll-40cb0df2b03969eabb3fac6e80373775-0000.eu-de.containers.appdomain.cloud/">BUY NOW!</a></span>
                     </a>
                 </li>
             </ul>
@@ -86,4 +86,7 @@ export default {
 };
 </script>
 <style>
+.padding{
+    padding-left: 1em;
+}
 </style>
