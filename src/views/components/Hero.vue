@@ -36,7 +36,7 @@
                 <icon name="ni ni-check-bold" type="primary" rounded class="mb-4">
                 </icon>
                 <h6 class="text-primary text-uppercase">Verified by customers</h6>
-                <p class="description mt-3">Verified by many customers as one of the best coupon books in Belgium.</p>
+                <p class="description mt-3">Verified by many customers the best coupon books in Belgium.</p>
                 <div>
                   <badge type="primary" rounded>Easy to use</badge>
                   <badge type="primary" rounded>Trustworthy</badge>
@@ -275,7 +275,7 @@
         <div class="col-lg-4">
           <icon name="ni ni-credit-card" size="lg" gradient="white" shadow round color="primary"></icon>
           <h5 class="text-white mt-3">Enjoy a free test period</h5>
-          <p class="text-white mt-3">Receive a first 2 year free test period when you first sign-up. This is to boost the economy as fast a possible.</p>
+          <p class="text-white mt-3">Receive a 2 year free test period when you first sign-up. This is to boost the economy as fast a possible.</p>
         </div>
         <div class="col-lg-4">
           <icon name="ni ni-notification-70" size="lg" gradient="white" shadow round color="primary"></icon>
