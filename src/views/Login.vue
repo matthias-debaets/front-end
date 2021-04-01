@@ -10,7 +10,7 @@
             <span></span>
             <span></span>
         </div>
-        <section class="section section-lg pt-lg-0 section-contact-us">
+        <section class="section section-lg pt-lg-0 section-contact-us section-contact-us-padding">
     <div class="container">
       <div class="row justify-content-center mt--300">
         <div class="col-lg-8">
@@ -44,7 +44,8 @@
 export default {};
 </script>
 <style>
-.section-contact-us{
-    margin-top: 50%;
+.section-contact-us-padding{
+    margin-top: 35%;
+    margin-bottom: 5%
 }
 </style>
