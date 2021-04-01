@@ -296,7 +296,7 @@
         <div class="col-lg-8">
           <card gradient="secondary" shadow body-classes="p-lg-5">
             <h4 class="mb-1">Want to work with us?</h4>
-            <p class="mt-0">Our partnership is very important to us.</p>
+            <p class="mt-0">Our partners are very important to us.</p>
             <base-input class="mt-5"
                         alternative
                         placeholder="Your name"
