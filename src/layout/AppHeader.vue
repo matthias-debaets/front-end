@@ -65,7 +65,7 @@
                 <span class="btn-inner--icon">
                   <i class="fa fa-shopping-cart mr-2"></i>
                 </span>
-                        <span class="nav-link-inner--text"><a href="http://hybrid-cloud-team-19-frontend-update-on-push-ucllteam19.ocp-ucll-40cb0df2b03969eabb3fac6e80373775-0000.eu-de.containers.appdomain.cloud/">BUY NOW!</a></span>
+                        <span class="nav-link-inner--text"><a href="http://hybrid-cloud-team-19-frontend-update-on-push-ucllteam19.ocp-ucll-40cb0df2b03969eabb3fac6e80373775-0000.eu-de.containers.appdomain.cloud/#">BUY NOW!</a></span>
                     </a>
                 </li>
             </ul>
